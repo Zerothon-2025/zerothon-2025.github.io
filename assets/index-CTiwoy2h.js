@@ -120,5 +120,5 @@ _____________________________________________
  OH    | 제로톤 오거나이저, 어쩌다 보니 개발자, 나무늘보
  SUNG  | 
  KIM   | 
- FARK (MAY BE F**K?) | 
+ FARK  | 
 `)};function Xy(){return W.useEffect(()=>{Gy()},[]),w.jsxs("div",{className:"relative justify-center",children:[w.jsxs("div",{className:"flex flex-col justify-center items-center pt-5 pb-20 px-10 bg-[#050A1F] sm:px-20 sm:pt-5 sm:pb-20",children:[w.jsx(xy,{}),w.jsx(Uy,{}),w.jsx(wy,{}),w.jsx(Ly,{}),w.jsx(By,{}),w.jsx(qy,{}),w.jsx(jy,{}),w.jsx(Hy,{}),w.jsx(Cy,{})]}),w.jsx("div",{className:"fixed flex items-center justify-center w-full bottom-10 px-10 sm:px-20",children:w.jsx(Yy,{})})]})}const Qy=[{path:"/",element:w.jsx(Xy,{})}],Zy=gy(Qy);e0.createRoot(document.getElementById("root")).render(w.jsx(W.StrictMode,{children:w.jsx(My,{router:Zy})}));
